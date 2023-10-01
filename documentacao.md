@@ -1,0 +1,2 @@
+<h1> Hotel </h1>
+<p>Um sistema de hotel que tem funções como, Reserva, Cadastro, Menu para cadastrar, listar ou pesquisar hóspedes, Buffet onde vc pode reservar um restalrante, Auditório, Eventos, Abastecimento e Manutenção de aparelhos. </p>
